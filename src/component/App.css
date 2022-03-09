@@ -1,0 +1,32 @@
+body {
+  font-family: 'Josefin Sans', cursive;
+}
+
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-image: url(../download.jpeg);
+  background-repeat: no-repeat; 
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+
+.c-button{
+  width: 70px;
+  background-color: rgb(37, 177, 219) !important;
+  border: none !important;
+}
+
+.bold{
+  font-weight: bold;
+  font-size: 1.5em;
+}
