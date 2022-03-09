@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
 body {
+  font-family: 'Josefin Sans', cursive !important;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
